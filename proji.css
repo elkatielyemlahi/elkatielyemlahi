@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(backgrand.jpg);
+
+}
+.prroj{
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+}
+*{
+    text-align: center;
+    
+}
+#text{
+    color:rgb(23 103 137);
+    font-style:oblique;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 10px;
+}
+footer h1 
+{
+    color: black;
+}
+#logo{
+    width: 200px;
+    
+}
+nav{
+    background-color: rgb(23 103 137);
+    display: flex;
+    margin-top: -29px;
+}
+#stru{
+    color: aliceblue;
+    font-size: 60px;
+    margin-left: 140px;
+    /*  lkhat font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ */}
+main{
+    /* display: flex; */
+    margin-top: 50px;
+}
+.divv{
+    width: 33%;
+    border:none;
+
+}
+div p{
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 30px;
+    text-align: center;
+    
+}
+p{
+    margin-bottom: 80px;
+}
+#photocours{
+    width: 90%;
+}
+    
+button{
+
+   width: 90px;
+   height: 30px;
+   background-color: rgb(14, 75, 100);
+   border-radius: 15%;
+   margin-left: 33%;
+   margin-bottom: 20px;  
+   color: aliceblue;
+}
+
+footer{
+    margin-top: 40px ;
+    background-color: rgb(14, 75, 100);
+    display: flex;
+}
+footer a {
+    text-decoration: none;
+    color: beige;
+}
+.contact4{
+    width: 25%;
+    margin-left: 30px;
+}
+.contact3{
+    width: 25%;
+    margin-left: 30px;
+}
+.contact2{
+    width: 25%;
+    margin-left: 30px;
+}
+.contact1{
+    width: 25%;
+    margin-left: 30px;
+}

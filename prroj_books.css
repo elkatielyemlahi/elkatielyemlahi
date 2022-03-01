@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(223, 223, 216);
+}
+
+
+
+button{
+    margin-top: 15px;
+    margin-left: 85%;
+    width: 90px;
+    height: 30px;
+    background-color: rgb(14, 75, 100);
+    border-radius: 15%;
+    color: aliceblue;
+    
+    
+}
+
+#logo{
+    width: 200px;
+    
+}
+header{
+    background-color: rgb(23 103 137);
+    display: flex;
+    /* position: fixed; */
+    width: 100%;
+    margin-top: -0px;
+}
+.book  {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+*{
+    text-align: center;
+    box-sizing: border-box;
+}
+#image_book{
+    height: 400px;
+    width: 350px;
+}
+.div_book{
+    width: 404px;
+    margin: 20px;
+    border: 20px solid #fff;
+    box-shadow: 20px 15px 35px rgb(0 0 0 / 80%);
+}
+footer{
+    margin-top: 40px ;
+    background-color: rgb(14, 75, 100);
+    display: flex;
+}
+footer h1 {
+    color: black;
+}
+footer a {
+    text-decoration: none;
+    color: beige;
+}
+#stru{
+    color: aliceblue;
+    font-size: 60px;
+    margin-left: 140px;
+}
+ .contact4{
+    width: 25%;
+    margin-left: 30px;
+}
+.contact3{
+    width: 25%;
+    margin-left: 30px;
+}
+.contact2{
+    width: 25%;
+    margin-left: 30px;
+}
+.contact1{
+    width: 25%;
+    margin-left: 30px;
+}
